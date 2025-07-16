@@ -6,7 +6,7 @@ Full-Stack Developer | Soluciones web, Frontend, backend, bots y automatización
 ---
 #  ¡Hola! Soy Andrés
 
-Full-Stack Developer enfocado en el desarrollo de soluciones modulares para aplicaciones web, backend y bots. Con experiencia en trabajo colaborativo, liderazgo técnico y gestión de proyectos utilizando metodologías ágiles y tableros Kanban en GitHub. Estoy completamente orientado a la calidad, la escalabilidad y las buenas prácticas en cada etapa del ciclo de desarrollo.
+Full-Stack Developer enfocado en el desarrollo de soluciones modulares para aplicaciones web, principalmente dirigido a *backend* y bots. Con experiencia en trabajo colaborativo, liderazgo técnico y gestión de proyectos utilizando metodologías ágiles y tableros Kanban en GitHub. Estoy completamente orientado a la calidad, la escalabilidad y las buenas prácticas en cada etapa del ciclo de desarrollo.
 Mi forma de entender un proceso de desarrollo está basada en la metodología 4D (Discover, Draw, Do, Deploy); considero que un proyecto bien organizado desde el inicio facilita la creación de código de calidad.
 Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentro fascinante automatizar procesos de trading. La lógica que hay detrás de estos sistemas es única y, de hecho, ha fortalecido mi pensamiento lógico en otros lenguajes de programación.
 
