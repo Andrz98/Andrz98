@@ -18,7 +18,7 @@ Trabajo con tableros Kanban para gestión ágil, ejemplo:
 ---
 ## Mis proyectos destacados
 
-### [Invexly](https://github.com/Andrz98/Invexly-frontend) & [Invexly Backend](https://github.com/Andrz98/Invexly-backend)
+### [Invexly Frontend](https://github.com/Andrz98/Invexly-frontend) & [Invexly Backend](https://github.com/Andrz98/Invexly-backend)
 Aplicación full stack para gestión de usuarios y autenticación.  
 #### **Frontend**:
 Invexly frontend destaca por su enfoque en seguridad, control de sesión y una IU simple y clara. Desarrollé esta SPA en React y Vite priorizando una autenticación robusta, navegación protegida y gestión segura del perfil del usuario. Utilizo arquitectura modular, Atomic Design y validaciones automáticas con ESLint y Prettier para garantizar calidad y mantenibilidad. El flujo de autenticación evita exponer datos sensibles y asegura la permanencia del usuario, validando el estado en cada acceso.
