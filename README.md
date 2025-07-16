@@ -114,6 +114,8 @@ Invexly Backend es una API en Node.js, organizada bajo arquitectura MVC y centra
 
 TuttoFatto ToDo Bot es un bot modular para Telegram, diseñado bajo arquitectura MVC y orientado a la gestión fiable de tareas y recordatorios. He implementado recordatorios automáticos en múltiples intervalos, control de zona horaria y pruebas unitarias para asegurar estabilidad. El sistema de autorización restringe el uso solo a usuarios registrados, y los middlewares aplican sanitización de entradas, rate limiting y validación de variables antes de ejecutar cualquier flujo. Utilizo node-cron para programar recordatorios, UptimeRobot para monitorizar la disponibilidad, y rutas protegidas para evitar accesos indebidos. Todas las comunicaciones con Telegram usan funciones seguras y reintentos automáticos, garantizando integridad incluso ante errores de red. Este bot está pensado para ofrecer una experiencia de gestión de tareas segura, controlada y siempre disponible en Telegram.
 
+***_Si deseas utilizarlo ponte en contacto conmigo por cualquiera de las dos vías de comunicación expuestas más arriba (LinkedIn o Gmail)._***
+
 #### **Features:**
 - Arquitectura modular y MVC: Organización clara de acciones, controladores, middlewares y modelos para facilitar el mantenimiento y la escalabilidad.
 
