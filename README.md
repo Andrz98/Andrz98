@@ -19,7 +19,6 @@ Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![MQL5](https://img.shields.io/badge/MQL5-0080FF?style=for-the-badge&logo=metaquotes)
 
-
 ### Frameworks, Librerías y UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -30,6 +29,9 @@ Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentr
 ![bcrypt](https://img.shields.io/badge/bcrypt-3A3A3A?style=for-the-badge&logo=javascript&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-1A1A1A?style=for-the-badge&logo=npm&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Luxon](https://img.shields.io/badge/Luxon-0D9488?style=for-the-badge)
+![uuid](https://img.shields.io/badge/UUID-3D3D3D?style=for-the-badge)
 
 ### Backend & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
@@ -39,6 +41,11 @@ Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentr
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)
+![Telegraf](https://img.shields.io/badge/Telegraf-4CA1E4?style=for-the-badge)
+![telegraf-session-local](https://img.shields.io/badge/Telegraf--Session--Local-4CA1E4?style=for-the-badge)
+![node-cron](https://img.shields.io/badge/Node--cron-212121?style=for-the-badge)
+![CORS](https://img.shields.io/badge/CORS-000000?style=for-the-badge)
+![dotenv](https://img.shields.io/badge/dotenv-8DD6F9?style=for-the-badge)
 
 ### Herramientas de Desarrollo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -47,7 +54,12 @@ Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentr
 ![MetaEditor 5](https://img.shields.io/badge/MetaEditor%205-0080FF?style=for-the-badge&logo=metaquotes)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet)
-
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge)
+![Supertest](https://img.shields.io/badge/Supertest-222222?style=for-the-badge)
+![SVGO](https://img.shields.io/badge/SVGO-26B890?style=for-the-badge)
 ---
 
 ## Estás son mis estadísticas en GitHub
