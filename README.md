@@ -8,7 +8,6 @@ Mi forma de entender un proceso de desarrollo está basada en la metodología 4D
 Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentro fascinante automatizar procesos de trading. La lógica que hay detrás de estos sistemas es única y, de hecho, ha fortalecido mi pensamiento lógico en otros lenguajes de programación.
 
 ---
----
 ## Tecnologías y Herramientas
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -83,7 +82,9 @@ Invexly Backend es una API en Node.js, organizada bajo arquitectura MVC y centra
 
 ---
 ### [TuttoFatto ToDo Bot](https://github.com/Andrz98/ToDoBot)
-![Preview TuttoFatto Bot](./Captura%20de%20pantalla%202025-07-16%20190320.png)
+![Preview TuttoFatto Bot](./preview-tuttofatto-bot.png)
+
+
 TuttoFatto ToDo Bot es un bot modular para Telegram, diseñado bajo arquitectura MVC y orientado a la gestión fiable de tareas y recordatorios. He implementado recordatorios automáticos en múltiples intervalos, control de zona horaria y pruebas unitarias para asegurar estabilidad. El sistema de autorización restringe el uso solo a usuarios registrados, y los middlewares aplican sanitización de entradas, rate limiting y validación de variables antes de ejecutar cualquier flujo. Utilizo node-cron para programar recordatorios, UptimeRobot para monitorizar la disponibilidad, y rutas protegidas para evitar accesos indebidos. Todas las comunicaciones con Telegram usan funciones seguras y reintentos automáticos, garantizando integridad incluso ante errores de red. Este bot está pensado para ofrecer una experiencia de gestión de tareas segura, controlada y siempre disponible en Telegram.
 
 #### **Features:**
