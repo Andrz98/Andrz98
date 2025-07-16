@@ -141,6 +141,6 @@ TuttoFatto ToDo Bot es un bot modular para Telegram, diseñado bajo arquitectura
 
 https://t.me/tuttofatto_bot
 
-Repositorio disponible en [GitHub](https://github.com/Andrz98/ToDoBot)
+Repositorio disponible en [Andrz98/ToDoBot](https://github.com/Andrz98/ToDoBot)
 
 
