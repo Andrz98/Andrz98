@@ -107,6 +107,10 @@ Invexly Backend es una API en Node.js, organizada bajo arquitectura MVC y centra
 
 - Despliegue profesional: Backend alojado en Render y frontend en Netlify, con control de orígenes y comunicación protegida.
 
+Repositorio frontend: [Andrz98/Invexly-frontend](https://github.com/Andrz98/Invexly-frontend)  
+Repositorio backend: [Andrz98/Invexly-backend](https://github.com/Andrz98/Invexly-backend)
+
+
 ---
 ### [TuttoFatto ToDo Bot](https://github.com/Andrz98/ToDoBot)
 ![Preview TuttoFatto Bot](./preview-tuttofatto-bot.png)
@@ -136,5 +140,7 @@ TuttoFatto ToDo Bot es un bot modular para Telegram, diseñado bajo arquitectura
 - Comunicación robusta: Funciones de envío y respuesta con reintentos automáticos ante errores de red, y endpoint seguro para el webhook.
 
 https://t.me/tuttofatto_bot
+
+Repositorio disponible en [GitHub](https://github.com/Andrz98/ToDoBot)
 
 
