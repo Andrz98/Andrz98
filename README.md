@@ -3,15 +3,10 @@ Full-Stack Developer | Soluciones web, Frontend, backend, bots y automatización
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresguerrero-fullstack/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresdgr2898@gmail.com)
 
----
-#  ¡Hola! Soy Andrés
 
-Full-Stack Developer enfocado en el desarrollo de soluciones modulares para aplicaciones web, principalmente dirigido a ***backend*** y bots. Con experiencia en trabajo colaborativo, liderazgo técnico y gestión de proyectos utilizando metodologías ágiles y tableros Kanban en GitHub. Estoy completamente orientado a la calidad, la escalabilidad y las buenas prácticas en cada etapa del ciclo de desarrollo.
-Mi forma de entender un proceso de desarrollo está basada en la metodología 4D (Discover, Draw, Do, Deploy); considero que un proyecto bien organizado desde el inicio facilita la creación de código de calidad.
-Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentro fascinante automatizar procesos de trading. La lógica que hay detrás de estos sistemas es única y, de hecho, ha fortalecido mi pensamiento lógico en otros lenguajes de programación.
 
 ---
-## Tecnologías y Herramientas
+## Tecnologías y Herramientas 
 
 ### Lenguajes
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -61,7 +56,13 @@ Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentr
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge)
 ![Supertest](https://img.shields.io/badge/Supertest-222222?style=for-the-badge)
 ![SVGO](https://img.shields.io/badge/SVGO-26B890?style=for-the-badge)
+
 ---
+#  ¡Hola! Soy Andrés
+
+Full-Stack Developer enfocado en el desarrollo de soluciones modulares para aplicaciones web, principalmente dirigido a ***backend*** y bots. Con experiencia en trabajo colaborativo, liderazgo técnico y gestión de proyectos utilizando metodologías ágiles y tableros Kanban en GitHub. Estoy completamente orientado a la calidad, la escalabilidad y las buenas prácticas en cada etapa del ciclo de desarrollo.
+Mi forma de entender un proceso de desarrollo está basada en la metodología 4D (Discover, Draw, Do, Deploy); considero que un proyecto bien organizado desde el inicio facilita la creación de código de calidad.
+Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentro fascinante automatizar procesos de trading. La lógica que hay detrás de estos sistemas es única y, de hecho, ha fortalecido mi pensamiento lógico en otros lenguajes de programación.
 
 ## Estás son mis estadísticas en GitHub
 
