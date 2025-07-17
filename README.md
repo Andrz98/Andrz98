@@ -73,13 +73,13 @@ Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentr
 ---
 
 
-## Organización de proyectos
+## Metodología Agile y organización de proyectos
 
 Trabajo con tableros Kanban para gestión ágil, ejemplo:  
 [Mi tablero Kanban en GitHub Projects](https://github.com/users/ImixEs/projects/3/views/1)
 
 ---
-## Mis proyectos destacados
+## En esta sección encuentras mis proyectos destacados (está en continuo crecimiento)
 
 ### [Invexly Frontend](https://github.com/Andrz98/Invexly-frontend) & [Invexly Backend](https://github.com/Andrz98/Invexly-backend)
 Aplicación full stack para gestión de usuarios y autenticación.  
