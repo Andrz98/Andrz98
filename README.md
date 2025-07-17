@@ -68,7 +68,8 @@ Además, he aprendido a utilizar MQL5 porque disfruto de la economía y encuentr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrz98&layout=compact&langs_count=6&theme=default&hide=Jupyter%20Notebook)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Andrz98&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andrz98)
+
 ---
 
 
