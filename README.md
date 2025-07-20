@@ -44,6 +44,7 @@ Full-Stack Developer | Soluciones web, Frontend, backend, bots y automatización
 ![dotenv](https://img.shields.io/badge/dotenv-8DD6F9?style=for-the-badge)
 
 ### Herramientas de Desarrollo
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
