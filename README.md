@@ -41,6 +41,8 @@ Full-Stack Developer | Soluciones web, Frontend, backend, bots y automatización
 ![telegraf-session-local](https://img.shields.io/badge/Telegraf--Session--Local-4CA1E4?style=for-the-badge)
 ![node-cron](https://img.shields.io/badge/Node--cron-212121?style=for-the-badge)
 ![CORS](https://img.shields.io/badge/CORS-000000?style=for-the-badge)
+![csrf-csrf](https://img.shields.io/badge/csrf--csrf-3A3A3A?style=for-the-badge&logo=npm&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-0747A6?style=for-the-badge&logo=http&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-8DD6F9?style=for-the-badge)
 
 ### Herramientas de Desarrollo
