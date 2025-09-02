@@ -83,7 +83,7 @@ Siempre estoy buscando el equilibrio perfecto entre funcionalidad, seguridad y e
 ## Metodología Agile y organización de proyectos
 
 Trabajo con tableros Kanban para gestión ágil, ejemplo:  
-[Mi tablero Kanban en GitHub Projects](https://github.com/users/ImixEs/projects/3/views/1)
+https://github.com/users/Andrz98/projects/5/views/1
 
 ---
 ## En esta sección encuentras mis proyectos destacados (está en continuo crecimiento)
