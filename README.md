@@ -15,7 +15,9 @@ Diseño software que transforma procesos complejos en productos claros, mantenib
 
 Soy desarrollador de software con experiencia en aplicaciones web, sistemas de información geográfica, automatización y soluciones orientadas a la operación aeronáutica.
 
-Actualmente trabajo con **React, TypeScript y OpenLayers** en interfaces GIS para representar, organizar y manipular información geoespacial. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales con **Python, Microsoft Fabric y Power BI**.
+Actualmente participo en el desarrollo de un **GIS para telecomunicaciones**: una aplicación capaz de generar planos de obra a partir de información geoespacial. Utilizo **React, TypeScript y OpenLayers** para gestionar capas, áreas de trabajo, viewports cartográficos, escalas y la composición de las hojas que forman cada plano.
+
+También diseño e integro **API REST** y contratos explícitos entre frontend y backend, con responsabilidades, modelos de datos y reglas de validación bien definidos. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales con **Python, Microsoft Fabric y Power BI**.
 
 Mi foco no es acumular frameworks: me interesa construir sistemas cuya lógica sea comprensible, comprobable y capaz de evolucionar. Por eso trabajo con **arquitectura limpia, separación de responsabilidades, diseño orientado al dominio, TDD y contratos explícitos entre frontend y backend**.
 
@@ -23,7 +25,8 @@ También mantengo un interés activo en **MQL5 y trading algorítmico**, especia
 
 ## En qué trabajo
 
-- **GIS y cartografía web:** interfaces geoespaciales con OpenLayers, gestión de capas, áreas, hojas y viewports cartográficos.
+- **GIS para telecomunicaciones:** generación de planos de obra, gestión de capas y áreas, composición de hojas, viewports cartográficos y control de escalas con OpenLayers.
+- **Integración frontend–backend:** diseño y consumo de API REST, definición de contratos, modelos de intercambio y validaciones.
 - **Sistemas aeronáuticos:** digitalización de registros de vuelo y modelado de reglas operacionales.
 - **Arquitectura de software:** límites claros entre dominio, aplicación, adaptadores e infraestructura.
 - **Datos y automatización:** procesamiento con Python, Microsoft Fabric, Power BI y flujos automatizados.
@@ -46,6 +49,7 @@ También mantengo un interés activo en **MQL5 y trading algorítmico**, especia
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -69,11 +73,13 @@ Sistema para digitalizar el registro de vuelo de una operación aérea. El proye
 
 > Repositorio privado por tratarse de un sistema de dominio operacional.
 
-### GIS con OpenLayers
+### GIS para telecomunicaciones con OpenLayers
 
-Desarrollo de herramientas cartográficas para trabajar con terrenos, áreas seleccionadas, división en hojas y manipulación de viewports. El reto principal consiste en mantener sincronizadas las representaciones visuales y las reglas geoespaciales sin acoplarlas a la interfaz.
+Participo en el desarrollo de una aplicación especializada en la **generación de planos de obra para telecomunicaciones**. La solución convierte información geoespacial en hojas cartográficas organizadas y preparadas para el trabajo técnico.
 
-**Enfoque:** React, TypeScript, OpenLayers, componentes reutilizables y modelado explícito del estado.
+Mi responsabilidad incluye la interfaz geoespacial y el modelado de operaciones como la gestión de capas y áreas, creación y manipulación de viewports, control de escalas y distribución del terreno entre distintas hojas. También trabajo en los contratos de la API REST que conectan el frontend con los servicios de backend.
+
+**Enfoque:** React, TypeScript, OpenLayers, API REST, componentes reutilizables, estado predecible y separación entre reglas geoespaciales e interfaz.
 
 ### [Atoms para MQL5](https://github.com/Andrz98/MQL5-InvestBrothers)
 
@@ -94,6 +100,18 @@ Aplicación full stack para autenticación y gestión de usuarios, dividida en f
 Bot de Telegram para organizar tareas y recordatorios, con control de acceso, zonas horarias, reintentos y flujos guiados.
 
 **Enfoque:** Node.js, Telegraf, automatización, seguridad y pruebas.
+
+## Gestión de proyectos y trabajo ágil
+
+Planifico mis proyectos personales con [GitHub Projects](https://github.com/users/Andrz98/projects/5/views/1) y tableros **Kanban**. Cada iniciativa se descompone en issues y subissues que permiten relacionar el objetivo general con entregables pequeños, verificables y trazables.
+
+El workflow automatiza la incorporación de elementos al tablero y su catalogación mediante etiquetas. Esto permite conocer el estado real del trabajo, priorizar el backlog y conservar el historial de cada decisión desde la planificación hasta la entrega.
+
+- **Backlog trazable:** objetivos divididos en issues y subissues.
+- **Flujo Kanban:** seguimiento visual del trabajo pendiente, en curso y completado.
+- **Automatización:** clasificación y actualización del tablero mediante reglas y etiquetas.
+- **Entrega verificable:** criterios de aceptación, pruebas y documentación vinculados al trabajo.
+- **Mejora continua:** revisión del flujo y de las decisiones técnicas durante la evolución del proyecto.
 
 ## Cómo entiendo la ingeniería de software
 
