@@ -64,14 +64,6 @@ También mantengo un interés activo en **MQL5 y trading algorítmico**, especia
 
 ## Proyectos destacados
 
-### Flight Log System
-
-Sistema para digitalizar el registro de vuelo de una operación aérea e integrarse con **AIMS** como fuente de información operacional. El proyecto separa las reglas del dominio de la interfaz y define una frontera de backend autoritativa para que la comunicación con AIMS, las validaciones y los cálculos críticos no dependan del navegador.
-
-**Enfoque:** React, TypeScript, integración con AIMS, API REST, arquitectura limpia, TDD, diseño por contratos y trazabilidad de decisiones técnicas.
-
-> Repositorio privado por tratarse de un sistema de dominio operacional.
-
 ### GIS para telecomunicaciones con OpenLayers
 
 Participo en el desarrollo de una aplicación especializada en la **generación de planos de obra para telecomunicaciones**. La solución convierte información geoespacial en hojas cartográficas organizadas y preparadas para el trabajo técnico.
@@ -80,25 +72,25 @@ Mi responsabilidad incluye la interfaz geoespacial y el modelado de operaciones 
 
 **Enfoque:** React, TypeScript, OpenLayers, API REST, componentes reutilizables, estado predecible y separación entre reglas geoespaciales e interfaz.
 
-### [Atoms para MQL5](https://github.com/Andrz98/MQL5-InvestBrothers)
+### Flight Log System
 
-Librería modular de componentes para trading algorítmico. Organiza detección de nuevas velas, indicadores, gestión de riesgo y ejecución de órdenes en unidades desacopladas y reutilizables.
+Sistema para digitalizar el registro de vuelo de una operación aérea e integrarse con **AIMS** como fuente de información operacional. El proyecto separa las reglas del dominio de la interfaz y define una frontera de backend autoritativa para que la comunicación con AIMS, las validaciones y los cálculos críticos no dependan del navegador.
 
-**Enfoque:** MQL5, orientación a objetos, encapsulamiento, bajo acoplamiento y gestión de riesgo.
+**Enfoque:** React, TypeScript, integración con AIMS, API REST, arquitectura limpia, TDD, diseño por contratos y trazabilidad de decisiones técnicas.
 
-### [Invexly](https://github.com/Andrz98/Invexly-frontend)
-
-Aplicación full stack para autenticación y gestión de usuarios, dividida en frontend y backend independientes.
-
-**Enfoque:** React, Node.js, Express, MongoDB, JWT, cookies seguras y pruebas automatizadas.
-
-[Frontend](https://github.com/Andrz98/Invexly-frontend) · [Backend](https://github.com/Andrz98/Invexly-backend)
+> Repositorio privado por tratarse de un sistema de dominio operacional.
 
 ### [TuttoFatto](https://github.com/Andrz98/ToDoBot)
 
 Bot de Telegram para organizar tareas y recordatorios, con control de acceso, zonas horarias, reintentos y flujos guiados.
 
 **Enfoque:** Node.js, Telegraf, automatización, seguridad y pruebas.
+
+### [Atoms para MQL5](https://github.com/Andrz98/MQL5-InvestBrothers)
+
+Librería modular de componentes para trading algorítmico. Organiza detección de nuevas velas, indicadores, gestión de riesgo y ejecución de órdenes en unidades desacopladas y reutilizables.
+
+**Enfoque:** MQL5, orientación a objetos, encapsulamiento, bajo acoplamiento y gestión de riesgo.
 
 ## Gestión de proyectos y trabajo ágil
 
