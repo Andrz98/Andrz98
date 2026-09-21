@@ -117,7 +117,6 @@ Parto de la idea de que el buen código no es el más complejo ni el que usa má
 Mi actividad en GitHub está orientada a documentar decisiones, organizar trabajo técnico y mantener proyectos con trazabilidad. Uso issues, subissues, etiquetas y tableros Kanban para convertir ideas en entregables concretos y verificables.
 
 - [Perfil de GitHub](https://github.com/Andrz98)
-- [Tablero de proyectos](https://github.com/users/Andrz98/projects/5/views/1)
 - [TuttoFatto](https://github.com/Andrz98/ToDoBot)
 - [Atoms para MQL5](https://github.com/Andrz98/MQL5-InvestBrothers)
 
