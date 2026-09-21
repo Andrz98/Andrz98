@@ -17,7 +17,7 @@ Soy desarrollador de software con experiencia en aplicaciones web, sistemas de i
 
 Actualmente participo en el desarrollo de un **GIS para telecomunicaciones**: una aplicación capaz de generar planos de obra a partir de información geoespacial. Utilizo **React, TypeScript y OpenLayers** para gestionar capas, áreas de trabajo, viewports cartográficos, escalas y la composición de las hojas que forman cada plano.
 
-También diseño e integro **API REST** y contratos explícitos entre frontend y backend, con responsabilidades, modelos de datos y reglas de validación bien definidos. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales con **Python y Microsoft Fabric**.
+También diseño e integro **API REST** y contratos explícitos entre frontend y backend, con responsabilidades, modelos de datos y reglas de validación bien definidos. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales procedentes de **AIMS**, utilizando **Python y Microsoft Fabric**.
 
 Mi foco no es acumular frameworks: me interesa construir sistemas cuya lógica sea comprensible, comprobable y capaz de evolucionar. Por eso trabajo con **arquitectura limpia, separación de responsabilidades, diseño orientado al dominio, TDD y contratos explícitos entre frontend y backend**.
 
@@ -27,7 +27,7 @@ También mantengo un interés activo en **MQL5 y trading algorítmico**, especia
 
 - **GIS para telecomunicaciones:** generación de planos de obra, gestión de capas y áreas, composición de hojas, viewports cartográficos y control de escalas con OpenLayers.
 - **Integración frontend–backend:** diseño y consumo de API REST, definición de contratos, modelos de intercambio y validaciones.
-- **Sistemas aeronáuticos:** digitalización de registros de vuelo y modelado de reglas operacionales.
+- **Sistemas aeronáuticos:** digitalización de registros de vuelo, modelado de reglas operacionales e integración con AIMS.
 - **Arquitectura de software:** límites claros entre dominio, aplicación, adaptadores e infraestructura.
 - **Datos y automatización:** procesamiento con Python, Microsoft Fabric y flujos automatizados.
 - **Calidad:** desarrollo guiado por pruebas, tipado estricto, validación, linting y documentación de decisiones.
@@ -66,9 +66,9 @@ También mantengo un interés activo en **MQL5 y trading algorítmico**, especia
 
 ### Flight Log System
 
-Sistema para digitalizar el registro de vuelo de una operación aérea. El proyecto separa las reglas del dominio de la interfaz y prepara una frontera de backend autoritativa para que los cálculos críticos no dependan del navegador.
+Sistema para digitalizar el registro de vuelo de una operación aérea e integrarse con **AIMS** como fuente de información operacional. El proyecto separa las reglas del dominio de la interfaz y define una frontera de backend autoritativa para que la comunicación con AIMS, las validaciones y los cálculos críticos no dependan del navegador.
 
-**Enfoque:** React, TypeScript, arquitectura limpia, TDD, diseño por contratos y trazabilidad de decisiones técnicas.
+**Enfoque:** React, TypeScript, integración con AIMS, API REST, arquitectura limpia, TDD, diseño por contratos y trazabilidad de decisiones técnicas.
 
 > Repositorio privado por tratarse de un sistema de dominio operacional.
 
