@@ -1,154 +1,121 @@
+<div align="center">
+
 # Andrés Guerrero
-Full-Stack Developer | Soluciones web, Frontend y especializado en backend, bots y automatización. Modularidad y tecnología actual.
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresguerrero-fullstack/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresdgr2898@gmail.com)
 
+### Software Developer · GIS · Sistemas aeronáuticos · Arquitectura limpia
 
+Diseño software que transforma procesos complejos en productos claros, mantenibles y verificables.
 
----
-## Tecnologías y Herramientas 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Guerrero-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresguerrero-fullstack/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andresdgr2898@gmail.com)
 
-### Lenguajes
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![MQL5](https://img.shields.io/badge/MQL5-0080FF?style=for-the-badge&logo=metaquotes)
+</div>
 
-### Frameworks, Librerías y UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge&logo=daisyui)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![bcrypt](https://img.shields.io/badge/bcrypt-3A3A3A?style=for-the-badge&logo=javascript&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-1A1A1A?style=for-the-badge&logo=npm&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Luxon](https://img.shields.io/badge/Luxon-0D9488?style=for-the-badge)
-![uuid](https://img.shields.io/badge/UUID-3D3D3D?style=for-the-badge)
+## Sobre mí
 
-### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)
-![Telegraf](https://img.shields.io/badge/Telegraf-4CA1E4?style=for-the-badge)
-![telegraf-session-local](https://img.shields.io/badge/Telegraf--Session--Local-4CA1E4?style=for-the-badge)
-![node-cron](https://img.shields.io/badge/Node--cron-212121?style=for-the-badge)
-![CORS](https://img.shields.io/badge/CORS-000000?style=for-the-badge)
-![csrf-csrf](https://img.shields.io/badge/csrf--csrf-3A3A3A?style=for-the-badge&logo=npm&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-0747A6?style=for-the-badge&logo=http&logoColor=white)
-![dotenv](https://img.shields.io/badge/dotenv-8DD6F9?style=for-the-badge)
+Soy desarrollador de software con experiencia en aplicaciones web, sistemas de información geográfica, automatización y soluciones orientadas a la operación aeronáutica.
 
-### Herramientas de Desarrollo
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
-![MetaEditor 5](https://img.shields.io/badge/MetaEditor%205-0080FF?style=for-the-badge&logo=metaquotes)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge)
-![Supertest](https://img.shields.io/badge/Supertest-222222?style=for-the-badge)
-![SVGO](https://img.shields.io/badge/SVGO-26B890?style=for-the-badge)
+Actualmente trabajo con **React, TypeScript y OpenLayers** en interfaces GIS para representar, organizar y manipular información geoespacial. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales con **Python, Microsoft Fabric y Power BI**.
 
----
-#  ¡Hola! Soy Andrés
+Mi foco no es acumular frameworks: me interesa construir sistemas cuya lógica sea comprensible, comprobable y capaz de evolucionar. Por eso trabajo con **arquitectura limpia, separación de responsabilidades, diseño orientado al dominio, TDD y contratos explícitos entre frontend y backend**.
 
-Soy un Full-Stack Developer especializado en **backend** y desarrollo de bots. Me fascina automatizar procesos complejos - creé TuttoFatto para gestionar sprints y Invexly enfocándome en seguridad robusta con JWT, CSRF y cookies seguras.  
-  
-Trabajo con metodologías ágiles y mi filosofía se basa en **4D** (Discover, Draw, Do, Deploy) porque planificar bien al inicio evita refactoring después. 
+También mantengo un interés activo en **MQL5 y trading algorítmico**, especialmente en el diseño de componentes reutilizables, gestión de riesgo y automatización de estrategias.
 
-Y como curiosidad, me adentré en **MQL5** porque la economía me apasiona y quería entender cómo automatizar estrategias de trading. Lo que no esperaba era que esta experiencia fortaleciera mi pensamiento lógico de manera increíble, algo que ahora aplico en todos mis proyectos de desarrollo web.  
-  
-Siempre estoy buscando el equilibrio perfecto entre funcionalidad, seguridad y experiencia de usuario.
+## En qué trabajo
 
-## Estás son mis estadísticas en GitHub
+- **GIS y cartografía web:** interfaces geoespaciales con OpenLayers, gestión de capas, áreas, hojas y viewports cartográficos.
+- **Sistemas aeronáuticos:** digitalización de registros de vuelo y modelado de reglas operacionales.
+- **Arquitectura de software:** límites claros entre dominio, aplicación, adaptadores e infraestructura.
+- **Datos y automatización:** procesamiento con Python, Microsoft Fabric, Power BI y flujos automatizados.
+- **Calidad:** desarrollo guiado por pruebas, tipado estricto, validación, linting y documentación de decisiones.
+- **Trading algorítmico:** librerías modulares y Expert Advisors en MQL5.
 
-![Andrz98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrz98&show_icons=true&theme=default&count_private=true&hide=issues&custom_title=Estadísticas%20Generales%20de%20Andrz98)
+## Tecnologías
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrz98&layout=compact&langs_count=6&theme=default&hide=Jupyter%20Notebook)
+### Desarrollo de producto
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
+### Backend, datos y automatización
 
-## Metodología Agile y organización de proyectos
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-Trabajo con tableros Kanban para gestión ágil, ejemplo:  
-https://github.com/users/Andrz98/projects/5/views/1
+### Ingeniería y calidad
 
----
-## En esta sección encuentras mis proyectos destacados (está en continuo crecimiento)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-0080FF?style=flat-square&logo=metaquotes&logoColor=white)
 
-### [Invexly Frontend](https://github.com/Andrz98/Invexly-frontend) & [Invexly Backend](https://github.com/Andrz98/Invexly-backend)
-Aplicación full stack para gestión de usuarios y autenticación.  
-#### **Frontend**:
-Invexly frontend destaca por su enfoque en seguridad, control de sesión y una IU simple y clara. Desarrollé esta SPA en React y Vite priorizando una autenticación robusta, navegación protegida y gestión segura del perfil del usuario. Utilizo arquitectura modular, Atomic Design y validaciones automáticas con ESLint y Prettier para garantizar calidad y mantenibilidad. El flujo de autenticación evita exponer datos sensibles y asegura la permanencia del usuario, validando el estado en cada acceso.
+## Proyectos destacados
 
-#### **Backend:**
-Invexly Backend es una API en Node.js, organizada bajo arquitectura MVC y centrada en la seguridad de la autenticación y la gestión de usuarios. Implementé validaciones estrictas de contraseña, encriptado seguro con bcrypt y manejo de sesiones mediante JWT y cookies httpOnly/secure. Las rutas y lógica de negocio están separadas para facilitar el mantenimiento y aplicar buenas prácticas. Uso helmet y CORS para proteger el servidor, además de pruebas automatizadas (Vitest, Supertest) que validan los flujos clave. El backend se integra con servicios externos (Brevo, Cloudinary, Render) y se comunica de forma controlada con el frontend en Netlify. Todo el flujo está diseñado para asegurar los datos y ofrecer una administración fiable del perfil del usuario.
+### Flight Log System
 
-#### **Features:**
-- Arquitectura Full Stack: Aplicación dividida en frontend (React, Vite, Atomic Design) y backend (Node.js, Express, MVC), con comunicación vía API segura.
+Sistema para digitalizar el registro de vuelo de una operación aérea. El proyecto separa las reglas del dominio de la interfaz y prepara una frontera de backend autoritativa para que los cálculos críticos no dependan del navegador.
 
-- Gestión de usuarios: Registro, inicio de sesión, edición de perfil y cierre de sesión, con autenticación robusta basada en JWT y cookies seguras.
+**Enfoque:** React, TypeScript, arquitectura limpia, TDD, diseño por contratos y trazabilidad de decisiones técnicas.
 
-- Control de sesión: Validación automática de tokens y gestión de sesiones tanto en frontend como backend para asegurar la permanencia del usuario.
+> Repositorio privado por tratarse de un sistema de dominio operacional.
 
-- Seguridad avanzada: Validaciones estrictas, cifrado de contraseñas, protección con helmet y CORS, y uso de cookies httpOnly/secure.
+### GIS con OpenLayers
 
-- Carga y gestión de avatares: Integración con Cloudinary para almacenamiento y actualización de imágenes de perfil.
+Desarrollo de herramientas cartográficas para trabajar con terrenos, áreas seleccionadas, división en hojas y manipulación de viewports. El reto principal consiste en mantener sincronizadas las representaciones visuales y las reglas geoespaciales sin acoplarlas a la interfaz.
 
-- Correo transaccional: Envío de emails de bienvenida y notificaciones usando Brevo.
+**Enfoque:** React, TypeScript, OpenLayers, componentes reutilizables y modelado explícito del estado.
 
-- Diseño responsive: Interfaz clara y adaptable desarrollada con Tailwind CSS y DaisyUI.
+### [Atoms para MQL5](https://github.com/Andrz98/MQL5-InvestBrothers)
 
-- Calidad de código: Uso de ESLint y Prettier en todo el stack, junto con pruebas automatizadas (Vitest, Supertest) para validar los principales flujos.
+Librería modular de componentes para trading algorítmico. Organiza detección de nuevas velas, indicadores, gestión de riesgo y ejecución de órdenes en unidades desacopladas y reutilizables.
 
-- Despliegue profesional: Backend alojado en Render y frontend en Netlify, con control de orígenes y comunicación protegida.
+**Enfoque:** MQL5, orientación a objetos, encapsulamiento, bajo acoplamiento y gestión de riesgo.
 
-Repositorio frontend: [Andrz98/Invexly-frontend](https://github.com/Andrz98/Invexly-frontend)  
-Repositorio backend: [Andrz98/Invexly-backend](https://github.com/Andrz98/Invexly-backend)
+### [Invexly](https://github.com/Andrz98/Invexly-frontend)
 
+Aplicación full stack para autenticación y gestión de usuarios, dividida en frontend y backend independientes.
+
+**Enfoque:** React, Node.js, Express, MongoDB, JWT, cookies seguras y pruebas automatizadas.
+
+[Frontend](https://github.com/Andrz98/Invexly-frontend) · [Backend](https://github.com/Andrz98/Invexly-backend)
+
+### [TuttoFatto](https://github.com/Andrz98/ToDoBot)
+
+Bot de Telegram para organizar tareas y recordatorios, con control de acceso, zonas horarias, reintentos y flujos guiados.
+
+**Enfoque:** Node.js, Telegraf, automatización, seguridad y pruebas.
+
+## Cómo entiendo la ingeniería de software
+
+```text
+Dominio antes que framework
+Contratos antes que suposiciones
+Pruebas antes que regresiones
+Claridad antes que complejidad accidental
+```
+
+Busco que cada decisión técnica tenga una razón verificable. Documento alternativas, mantengo la lógica de negocio aislada de la infraestructura y trato las pruebas como especificaciones ejecutables del comportamiento esperado.
+
+## GitHub
+
+<div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andrz98&show_icons=true&hide=issues&rank_icon=github&custom_title=Actividad%20en%20GitHub)
+
+![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrz98&layout=compact&langs_count=8&hide=Jupyter%20Notebook)
+
+</div>
 
 ---
-### [TuttoFatto ToDo Bot](https://github.com/Andrz98/ToDoBot)
-![Preview TuttoFatto Bot](./preview-tuttofatto-bot.png)
 
-
-TuttoFatto ToDo Bot es un bot modular para Telegram, diseñado bajo arquitectura MVC y orientado a la gestión fiable de tareas y recordatorios. He implementado recordatorios automáticos en múltiples intervalos, control de zona horaria y pruebas unitarias para asegurar estabilidad. El sistema de autorización restringe el uso solo a usuarios registrados, y los middlewares aplican sanitización de entradas, rate limiting y validación de variables antes de ejecutar cualquier flujo. Utilizo node-cron para programar recordatorios, UptimeRobot para monitorizar la disponibilidad, y rutas protegidas para evitar accesos indebidos. Todas las comunicaciones con Telegram usan funciones seguras y reintentos automáticos, garantizando integridad incluso ante errores de red. Este bot está pensado para ofrecer una experiencia de gestión de tareas segura, controlada y siempre disponible en Telegram.
-
-***_Si deseas utilizarlo ponte en contacto conmigo por cualquiera de las dos vías de comunicación expuestas más arriba (LinkedIn o Gmail)._***
-
-#### **Features:**
-- Arquitectura modular y MVC: Organización clara de acciones, controladores, middlewares y modelos para facilitar el mantenimiento y la escalabilidad.
-
-- Gestión avanzada de tareas: Creación, edición, listado, completado y eliminación de tareas desde Telegram.
-
-- Recordatorios automáticos: Notificaciones programadas en intervalos múltiples (72h, 48h, 24h, 7h, 3h y 10 min antes del vencimiento) usando node-cron.
-
-- Control de zona horaria: Selección de timezone para notificaciones precisas.
-
-- Seguridad y control de acceso: Middleware de autorización (solo usuarios registrados), sanitización de entradas y rate limiting.
-
-- Flujos guiados por menús: Interfaz interactiva para recibir datos y navegar entre comandos.
-
-- Pruebas automáticas: Validación de componentes clave y flujos principales con Vitest.
-
-- Monitorización y disponibilidad: UptimeRobot monitoriza el endpoint para asegurar que el bot esté siempre operativo y reduzca los tiempos de espera.
-
-- Comunicación robusta: Funciones de envío y respuesta con reintentos automáticos ante errores de red, y endpoint seguro para el webhook.
-
-https://t.me/tuttofatto_bot
-
-Repositorio disponible en [Andrz98/ToDoBot](https://github.com/Andrz98/ToDoBot)
-
-
+Si te interesa conversar sobre **GIS, arquitectura de software, sistemas aeronáuticos, automatización o MQL5**, puedes contactarme por [LinkedIn](https://www.linkedin.com/in/andresguerrero-fullstack/) o [correo](mailto:andresdgr2898@gmail.com).
