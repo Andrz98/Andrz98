@@ -15,7 +15,7 @@ Diseño software que transforma procesos complejos en productos claros, mantenib
 
 Soy desarrollador de software con experiencia en aplicaciones web, sistemas de información geográfica, automatización y soluciones orientadas a la operación aeronáutica.
 
-Actualmente participo en el desarrollo de un **GIS para telecomunicaciones**: una aplicación capaz de generar planos de obra a partir de información geoespacial. Utilizo **React, TypeScript y OpenLayers** para gestionar capas, áreas de trabajo, viewports cartográficos, escalas y la composición de las hojas que forman cada plano.
+Actualmente participo en el desarrollo de un **GIS para telecomunicaciones**: una aplicación capaz de generar planos de obra a partir de información geoespacial. Utilizo **React, TypeScript y OpenLayers** para gestionar capas, áreas de trabajo, viewports cartográficos, escalas, composición de hojas y otras decisiones de interfaz y experiencia de usuario aplicadas al contexto cartográfico.
 
 También diseño e integro **API REST** y contratos explícitos entre frontend y backend, con responsabilidades, modelos de datos y reglas de validación bien definidos. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales procedentes de **AIMS**, utilizando **Python y Microsoft Fabric**.
 
@@ -25,7 +25,7 @@ También mantengo un interés activo en **MQL5 y trading algorítmico**, especia
 
 ## En qué trabajo
 
-- **GIS para telecomunicaciones:** generación de planos de obra, gestión de capas y áreas, composición de hojas, viewports cartográficos y control de escalas con OpenLayers.
+- **GIS para telecomunicaciones:** generación de planos de obra, gestión de capas y áreas, composición de hojas, viewports cartográficos, control de escalas y flujos de UI/UX vinculados a operaciones geoespaciales.
 - **Integración frontend–backend:** diseño y consumo de API REST, definición de contratos, modelos de intercambio y validaciones.
 - **Sistemas aeronáuticos:** digitalización de registros de vuelo, modelado de reglas operacionales e integración con AIMS.
 - **Arquitectura de software:** límites claros entre dominio, aplicación, adaptadores e infraestructura.
@@ -68,7 +68,7 @@ También mantengo un interés activo en **MQL5 y trading algorítmico**, especia
 
 Participo en el desarrollo de una aplicación especializada en la **generación de planos de obra para telecomunicaciones**. La solución convierte información geoespacial en hojas cartográficas organizadas y preparadas para el trabajo técnico.
 
-Mi responsabilidad incluye la interfaz geoespacial y el modelado de operaciones como la gestión de capas y áreas, creación y manipulación de viewports, control de escalas y distribución del terreno entre distintas hojas. También trabajo en los contratos de la API REST que conectan el frontend con los servicios de backend.
+Mi responsabilidad incluye la interfaz geoespacial y el modelado de operaciones como la gestión de capas y áreas, creación y manipulación de viewports, control de escalas y distribución del terreno entre distintas hojas. También trabajo en los contratos de la API REST que conectan el frontend con los servicios de backend, entre otras acciones de UI y UX orientadas a convertir operaciones geoespaciales complejas en flujos claros para el usuario.
 
 **Enfoque:** React, TypeScript, OpenLayers, API REST, componentes reutilizables, estado predecible y separación entre reglas geoespaciales e interfaz.
 
