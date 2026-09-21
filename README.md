@@ -114,13 +114,12 @@ Parto de la idea de que el buen código no es el más complejo ni el que usa má
 
 ## GitHub
 
-<div align="center">
+Mi actividad en GitHub está orientada a documentar decisiones, organizar trabajo técnico y mantener proyectos con trazabilidad. Uso issues, subissues, etiquetas y tableros Kanban para convertir ideas en entregables concretos y verificables.
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andrz98&show_icons=true&hide=issues&rank_icon=github&custom_title=Actividad%20en%20GitHub)
-
-![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrz98&layout=compact&langs_count=8&hide=Jupyter%20Notebook)
-
-</div>
+- [Perfil de GitHub](https://github.com/Andrz98)
+- [Tablero de proyectos](https://github.com/users/Andrz98/projects/5/views/1)
+- [TuttoFatto](https://github.com/Andrz98/ToDoBot)
+- [Atoms para MQL5](https://github.com/Andrz98/MQL5-InvestBrothers)
 
 ---
 
