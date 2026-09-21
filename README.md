@@ -106,11 +106,11 @@ El workflow automatiza la incorporación de elementos al tablero y su catalogaci
 
 ## Cómo entiendo la ingeniería de software
 
-Me gusta construir software partiendo del problema real, no del framework de moda. Antes de escribir una solución intento entender el dominio, las reglas del negocio, las personas que van a usar el sistema y las decisiones que pueden condicionar su evolución.
+Me gusta construir software partiendo del problema real. Antes de escribir una solución intento entender el dominio, las reglas del negocio, las personas que van a usar el sistema y las decisiones que pueden condicionar su evolución.
 
-En la práctica, eso significa cuidar los límites entre frontend, backend, datos e infraestructura. Procuro que cada contrato sea claro, que las reglas importantes estén en el lugar correcto y que las pruebas no sean un trámite, sino una forma de proteger el comportamiento que el producto necesita mantener.
+Llevado a la práctica, eso significa cuidar los límites entre frontend, backend, datos e infraestructura. Procuro que cada contrato sea claro, que las reglas importantes estén en el lugar correcto y que las pruebas no sean un trámite, sino una forma de proteger el comportamiento que el producto necesita mantener.
 
-Para mí, el buen código no es el más complejo ni el que usa más herramientas. Es el que otra persona puede leer, discutir, probar y mejorar sin tener que reconstruir mentalmente todo el sistema desde cero.
+Parto de la idea de que el buen código no es el más complejo ni el que usa más herramientas. Es el que otra persona puede leer, discutir, probar y mejorar sin tener que reconstruir mentalmente todo el sistema desde cero.
 
 ## GitHub
 
