@@ -17,7 +17,7 @@ Soy desarrollador de software con experiencia en aplicaciones web, sistemas de i
 
 Actualmente participo en el desarrollo de un **GIS para telecomunicaciones**: una aplicación capaz de generar planos de obra a partir de información geoespacial. Utilizo **React, TypeScript y OpenLayers** para gestionar capas, áreas de trabajo, viewports cartográficos, escalas y la composición de las hojas que forman cada plano.
 
-También diseño e integro **API REST** y contratos explícitos entre frontend y backend, con responsabilidades, modelos de datos y reglas de validación bien definidos. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales con **Python, Microsoft Fabric y Power BI**.
+También diseño e integro **API REST** y contratos explícitos entre frontend y backend, con responsabilidades, modelos de datos y reglas de validación bien definidos. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales con **Python y Microsoft Fabric**.
 
 Mi foco no es acumular frameworks: me interesa construir sistemas cuya lógica sea comprensible, comprobable y capaz de evolucionar. Por eso trabajo con **arquitectura limpia, separación de responsabilidades, diseño orientado al dominio, TDD y contratos explícitos entre frontend y backend**.
 
@@ -29,7 +29,7 @@ También mantengo un interés activo en **MQL5 y trading algorítmico**, especia
 - **Integración frontend–backend:** diseño y consumo de API REST, definición de contratos, modelos de intercambio y validaciones.
 - **Sistemas aeronáuticos:** digitalización de registros de vuelo y modelado de reglas operacionales.
 - **Arquitectura de software:** límites claros entre dominio, aplicación, adaptadores e infraestructura.
-- **Datos y automatización:** procesamiento con Python, Microsoft Fabric, Power BI y flujos automatizados.
+- **Datos y automatización:** procesamiento con Python, Microsoft Fabric y flujos automatizados.
 - **Calidad:** desarrollo guiado por pruebas, tipado estricto, validación, linting y documentación de decisiones.
 - **Trading algorítmico:** librerías modulares y Expert Advisors en MQL5.
 
@@ -51,7 +51,6 @@ También mantengo un interés activo en **MQL5 y trading algorítmico**, especia
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoft&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Ingeniería y calidad
