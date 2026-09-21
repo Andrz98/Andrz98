@@ -17,7 +17,7 @@ Soy desarrollador de software con experiencia en aplicaciones web, sistemas de i
 
 Actualmente participo en el desarrollo de un **GIS para telecomunicaciones**: una aplicación capaz de generar planos de obra a partir de información geoespacial. Utilizo **React, TypeScript y OpenLayers** para gestionar capas, áreas de trabajo, viewports cartográficos, escalas, composición de hojas y otras decisiones de interfaz y experiencia de usuario aplicadas al contexto cartográfico.
 
-También diseño e integro **API REST** y contratos explícitos entre frontend y backend, con responsabilidades, modelos de datos y reglas de validación bien definidos. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales procedentes de **AIMS**, utilizando **Python y Microsoft Fabric**.
+También diseño e integro **API REST** y contratos explícitos entre frontend y backend, con responsabilidades, modelos de datos y reglas de validación bien definidos. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales procedentes de **AIMS**, con backend en **Python**, documentación técnica y preparación del proyecto para su traspaso a equipos de IT.
 
 Mi foco no es acumular frameworks: me interesa construir sistemas cuya lógica sea comprensible, comprobable y capaz de evolucionar. Por eso trabajo con **arquitectura limpia, separación de responsabilidades, diseño orientado al dominio, TDD y contratos explícitos entre frontend y backend**.
 
@@ -27,7 +27,7 @@ También mantengo un interés activo en **MQL5 y trading algorítmico**, especia
 
 - **GIS para telecomunicaciones:** generación de planos de obra, gestión de capas y áreas, composición de hojas, viewports cartográficos, control de escalas y flujos de UI/UX vinculados a operaciones geoespaciales.
 - **Integración frontend–backend:** diseño y consumo de API REST, definición de contratos, modelos de intercambio y validaciones.
-- **Sistemas aeronáuticos:** digitalización de registros de vuelo, modelado de reglas operacionales e integración con AIMS.
+- **Sistemas aeronáuticos:** digitalización de registros de vuelo, modelado de reglas operacionales, backend en Python e integración con AIMS.
 - **Arquitectura de software:** límites claros entre dominio, aplicación, adaptadores e infraestructura.
 - **Datos y automatización:** procesamiento con Python, Microsoft Fabric y flujos automatizados.
 - **Calidad:** desarrollo guiado por pruebas, tipado estricto, validación, linting y documentación de decisiones.
@@ -74,9 +74,11 @@ Mi responsabilidad incluye la interfaz geoespacial y el modelado de operaciones 
 
 ### Flight Log System
 
-Sistema para digitalizar el registro de vuelo de una operación aérea e integrarse con **AIMS** como fuente de información operacional. El proyecto separa las reglas del dominio de la interfaz y define una frontera de backend autoritativa para que la comunicación con AIMS, las validaciones y los cálculos críticos no dependan del navegador.
+Sistema para digitalizar el registro de vuelo de una operación aérea e integrarse con **AIMS** como fuente de información operacional. El proyecto separa las reglas del dominio de la interfaz y define una frontera de backend autoritativa en **Python**, para que la comunicación con AIMS, las validaciones y los cálculos críticos no dependan del navegador.
 
-**Enfoque:** React, TypeScript, integración con AIMS, API REST, arquitectura limpia, TDD, diseño por contratos y trazabilidad de decisiones técnicas.
+Además del desarrollo funcional, el proyecto está documentado y preparado para facilitar su traslado a un equipo de IT, incluyendo decisiones técnicas, contratos, responsabilidades del backend y criterios de evolución.
+
+**Enfoque:** React, TypeScript, Python, integración con AIMS, API REST, arquitectura limpia, TDD, diseño por contratos y trazabilidad de decisiones técnicas.
 
 > Repositorio privado por tratarse de un sistema de dominio operacional.
 
@@ -117,6 +119,7 @@ Parto de la idea de que el buen código no es el más complejo ni el que usa má
 Mi actividad en GitHub está orientada a documentar decisiones, organizar trabajo técnico y mantener proyectos con trazabilidad. Uso issues, subissues, etiquetas y tableros Kanban para convertir ideas en entregables concretos y verificables.
 
 - [Perfil de GitHub](https://github.com/Andrz98)
+- [Tablero de proyectos](https://github.com/users/Andrz98/projects/5/views/1)
 - [TuttoFatto](https://github.com/Andrz98/ToDoBot)
 - [Atoms para MQL5](https://github.com/Andrz98/MQL5-InvestBrothers)
 
