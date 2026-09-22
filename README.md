@@ -86,7 +86,7 @@ Además del desarrollo funcional, el proyecto está documentado y preparado para
 
 Bot de Telegram para organizar tareas y recordatorios, con control de acceso, zonas horarias, reintentos y flujos guiados.
 
-**Enfoque:** Node.js, Telegraf, automatización, seguridad y pruebas.
+**Enfoque:** Node.js, javaScript, Telegraf, automatización, seguridad y pruebas.
 
 ### [Atoms para MQL5](https://github.com/Andrz98/MQL5-InvestBrothers)
 
