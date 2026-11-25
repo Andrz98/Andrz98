@@ -38,9 +38,9 @@ reglas de dominio aisladas de la interfaz y pruebas que sostienen cada cambio.
 
 <br>
 
-| **Alchemy** | **Flight Log System** |
+| **Alchemy** | **Control Operacional de Vuelo** |
 |:---:|:---:|
-| GIS para planos de obra de telecomunicaciones | Registro de vuelo digital para una operación aérea |
+| GIS para planos de obra de telecomunicaciones | Registro de vuelo digital para operaciones aéreas |
 | Convierte información geoespacial en hojas cartográficas listas para el trabajo técnico | Integración con AIMS como fuente de información operacional |
 | Capas y áreas · Viewports · Escalas · Reparto del terreno entre hojas | Backend autoritativo: validaciones y cálculos críticos fuera del navegador |
 | `React` `TypeScript` `OpenLayers` | `React` `TypeScript` `Python` |
