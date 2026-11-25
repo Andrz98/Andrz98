@@ -33,7 +33,7 @@
 
 <br>
 
-| **Alchemy** | **Flight Log System** |
+| **Alchemy** | **Control Operacional de Vuelo** |
 |:---:|:---:|
 | GIS para planos de obra de telecomunicaciones | Registro de vuelo digital para una operación aérea |
 | Convierte información geoespacial en hojas cartográficas listas para el trabajo técnico | Integración con AIMS como fuente de información operacional |
