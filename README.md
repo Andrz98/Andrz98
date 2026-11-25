@@ -9,20 +9,6 @@ Diseño software que transforma procesos complejos en productos claros, mantenib
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Guerrero-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresguerrero-fullstack/)
 [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andresdgr2898@gmail.com)
 
-</div>
-
-## Sobre mí
-
-Soy desarrollador de software con experiencia en aplicaciones web, sistemas de información geográfica, automatización y soluciones orientadas a la operación aeronáutica.
-
-Actualmente participo en el desarrollo de un **GIS para telecomunicaciones**: una aplicación capaz de generar planos de obra a partir de información geoespacial. Utilizo **React, TypeScript y OpenLayers** para gestionar capas, áreas de trabajo, viewports cartográficos, escalas, composición de hojas y otras decisiones de interfaz y experiencia de usuario aplicadas al contexto cartográfico.
-
-También diseño e integro **API REST** y contratos explícitos entre frontend y backend, con responsabilidades, modelos de datos y reglas de validación bien definidos. En paralelo, desarrollo soluciones para digitalizar procesos aeronáuticos e integrar datos operacionales procedentes de **AIMS**, con backend en **Python**, documentación técnica y preparación del proyecto para su traspaso a equipos de IT.
-
-Mi foco no es acumular frameworks: me interesa construir sistemas cuya lógica sea comprensible, comprobable y capaz de evolucionar. Por eso trabajo con **arquitectura limpia, separación de responsabilidades, diseño orientado al dominio, TDD y contratos explícitos entre frontend y backend**.
-
-También mantengo un interés activo en **MQL5 y trading algorítmico**, especialmente en el diseño de componentes reutilizables, gestión de riesgo y automatización de estrategias.
-
 ## En qué trabajo
 
 - **GIS para telecomunicaciones:** generación de planos de obra, gestión de capas y áreas, composición de hojas, viewports cartográficos, control de escalas y flujos de UI/UX vinculados a operaciones geoespaciales.
